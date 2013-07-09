@@ -1,0 +1,8 @@
+
+
+A Naive Bayes classifier trained in Python, to predict which of two quirky categories a given proper noun falls into.
+The idea for the format and categories comes from a game on NPR's show Ask Me Another, titled "This, That, or the Other"
+
+
+A post discussing details of the analysis can be found on www.hotdamndata.com
+
